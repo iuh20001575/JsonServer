@@ -1,0 +1,14 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "JSON server",
+      "description": "Các bạn subscribe kênh Youtube F8 Official để nhận thông báo khi có các bài học mới nhé ❤️"
+    },
+    {
+      "title": "Sử dụng Postman làm việc với REST API",
+      "description": "Tham gia nhóm Học lập trình tại F8 trên Facebook để cùng nhau trao đổi trong quá trình học tập ❤️^^",
+      "id": 3
+    }
+  ]
+}
